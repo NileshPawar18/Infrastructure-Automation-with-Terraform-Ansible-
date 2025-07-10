@@ -23,7 +23,7 @@ Launch an EC2 instance using Terraform
 Connect to the instance
            Install Jenkins, Java, and Python in the instance
 
-                  Project By :-    Prerana Maurya
+                  Project By :-    Nilesh Pawar
 
 
 
